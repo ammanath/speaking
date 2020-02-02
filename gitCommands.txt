@@ -1,0 +1,10 @@
+//setting up github as remote
+>git remote add origin https://github.com/bit00/speaking.git
+>git push origin master
+
+
+>git commit -am "Initial commit" //-a:Commit all staged files, -m:Use string as commit msg
+>git status
+
+How to push changes from local to gitHub?
+	>git push origin master 
